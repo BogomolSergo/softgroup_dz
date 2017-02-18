@@ -90,6 +90,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dz1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dz1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -295,12 +305,12 @@
       <workItem from="1487351523845" duration="7523000" />
       <workItem from="1487414014505" duration="5394000" />
       <workItem from="1487421810988" duration="2367000" />
-      <workItem from="1487424613633" duration="1256000" />
+      <workItem from="1487424613633" duration="1452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16540000" />
+    <option name="totallyTimeSpent" value="16736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
