@@ -29,12 +29,11 @@ iterations = 1
 						compare_param += 1 if (a == n) && (b == m)
 					end
 				end
-				if compare_param != input_set.size
-					puts 'false'
-				else puts 'true'
-				end
+				puts compare_param == input_set.size ? 'true' : 'false'
 			end
 		end
 	end
 end
 end
+arr = '(<[{}]>)'
+arr.valid?
