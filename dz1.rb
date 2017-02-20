@@ -38,5 +38,3 @@ iterations = 1
 	end
 end
 end
-arr = '(<[{}]>)'
-arr.valid?
