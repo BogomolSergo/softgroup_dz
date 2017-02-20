@@ -26,10 +26,7 @@ iterations = 1
 				end
 				input_set.each_pair do |a, b|                                   #compare nominal hash with input hash
 					compare_set.each_pair do |n, m|
-						if (a == n) && (b == m)
-							#puts "#{a} == #{b}"
-							compare_param += 1
-						end
+						compare_param += 1 if (a == n) && (b == m)
 					end
 				end
 				if compare_param != input_set.size
