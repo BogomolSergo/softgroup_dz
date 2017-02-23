@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f62e8c4-df69-4ac3-8dfe-4ba20e119422" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dz1.rb" afterPath="$PROJECT_DIR$/dz1.rb" />
     </list>
     <ignored path="dz1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -355,7 +354,7 @@
       <workItem from="1487600410324" duration="1777000" />
       <workItem from="1487771658279" duration="1194000" />
       <workItem from="1487785003465" duration="73000" />
-      <workItem from="1487876778357" duration="2131000" />
+      <workItem from="1487876778357" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="add benchmark">
       <created>1487514259114</created>
@@ -413,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487878814176</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hash">
+      <created>1487878923712</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487878923712</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31533000" />
+    <option name="totallyTimeSpent" value="31554000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,7 +508,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add benchmark" />
     <MESSAGE value="=) there's something here, something Hindu" />
-    <option name="LAST_COMMIT_MESSAGE" value="=) there's something here, something Hindu" />
+    <MESSAGE value="hash" />
+    <option name="LAST_COMMIT_MESSAGE" value="hash" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
