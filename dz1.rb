@@ -14,8 +14,8 @@ class String
       bm.report do
         iterations.times do
           line = scan(/\S/) # String to array of chars.
-          l_part = line[0...line.size / 2] # Two arrays, 1:left path of
-          r_part = line[line.size / 2..line.size].reverse! #   input string, 2: part.
+          l_part = line[0...line.size / 2] # Left part of line.
+          r_part = line[line.size / 2..line.size].reverse! # Right
           (0...l_part.size).each do |i|
             (0...r_part.size).each do |j| # Insert left & right part in hash
               break if j > i #   as keys & values.
