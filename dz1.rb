@@ -2,7 +2,7 @@ require 'benchmark'
 class String
   def valid?
     iterations = 1
-    input_set = {}
+    input_set = Hash.new
     compare_param = 0
     compare_set = { # Hash for compare(as nominal) with input values.
       '[' => ']', # Relationship brackets.
