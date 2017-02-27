@@ -27,7 +27,7 @@ class String
               compare_param += 1 if (a == n) && (b == m)
             end
           end
-          puts compare_param == input_set.size ? 'true' : 'false'
+          puts compare_param == input_set.size
         end
       end
     end
